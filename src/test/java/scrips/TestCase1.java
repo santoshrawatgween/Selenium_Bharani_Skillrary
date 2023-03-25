@@ -12,6 +12,7 @@ public class TestCase1 extends BaseClass
 	@Test
 	public void tc1()
 	{
+		//Skillrary Test cases
 		SkillRaryLoginPage s= new SkillRaryLoginPage(driver);
 		s.gearsButton();
 		s.skilllRaryDemo();
